@@ -8,7 +8,7 @@
 [CV](https://picassoasia.ch) and [my creative studio](https://pickleagency.ch)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asia-picasso/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@picassoasia.ch) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asia-picasso/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@picassoasia.ch) 
 
 # 💻 Tech Skills:
 ### LANGUAGES
